@@ -22,4 +22,4 @@ voltage, where a lower thershold voltage will lead to a faster trigger
 
 ![Alt text](Equation1.jpeg)
 
-with my circuit a 100uF capacitor and a 1K resistoe gives an RC time constant od 100ms, our activation voltage is > 2.8
+with the given circuit a 100uF capacitor and a 1K resistor gives an RC time constant of 100ms, with the activation voltage of 2.85V (Vtarget) the resulting time to trigger the switch takes 51.8ms

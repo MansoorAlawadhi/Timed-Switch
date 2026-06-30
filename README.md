@@ -2,11 +2,11 @@
 
 
 **Components used:**
-   *∙1X 100uF capacitor*
-   *∙1X 1K resistor*
-   *∙1X 200ohm resistor* 
-   *∙1X 10K variable resistor*
-   *∙1X Lm358(any op amp can be used)*
+   *∙1x 100uF capacitor*
+   *∙1x 1K resistor*
+   *∙1x 200ohm resistor* 
+   *∙1x 10K variable resistor*
+   *∙1x Lm358(any op amp can be used)*
 
 This is a timed switch which relies on the RC circuit where the voltage is fed into
 the non-inverting input of an op amp.

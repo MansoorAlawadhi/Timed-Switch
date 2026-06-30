@@ -8,7 +8,7 @@
    *∙1x 10K variable resistor*
    *∙1x Lm358(any op amp can be used)*
 
-![Alt text](CircuitSchematic.png)
+![Alt text](circuitSchematic.png)
 
 ![Alt text](BreadboardCircuit.png)
 
@@ -28,7 +28,7 @@ voltage, where a lower thershold voltage will lead to a faster trigger
 ![Alt text](Equation1.jpeg)
 
 **Circuit measurment**
-![Alt text](SignalOverTime.jpg)
+![Alt text](SignalOverTime.JPG)
 *Blue plot is the RC circuit voltage over time*
 *yellow plot is the Op amp Vout voltage over time
 

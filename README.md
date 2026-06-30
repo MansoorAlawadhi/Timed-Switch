@@ -30,6 +30,7 @@ voltage, where a lower thershold voltage will lead to a faster triggering time
 **Circuit measurment**
 ![Alt text](SignalOverTime.JPG)
 *Blue plot is the RC circuit voltage over time*
-*yellow plot is the Op amp Vout voltage over time
+
+*yellow plot is the Op amp Vout voltage over time*
 
 with the given circuit a 100uF capacitor and a 1K resistor gives an RC time constant of 100ms, with the activation voltage of 2.85V (Vtarget) the resulting time to trigger the switch takes 51.8ms

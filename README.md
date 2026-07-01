@@ -28,7 +28,7 @@ voltage, where a lower thershold voltage will lead to a faster triggering time
 
 ![Alt text](Equation1.jpeg)
 
-**Circuit measurment**
+**Signal measurment**
 ![Alt text](SignalOverTime.JPG)
 
 *Blue plot is the RC circuit voltage over time*

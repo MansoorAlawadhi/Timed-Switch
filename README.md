@@ -10,18 +10,15 @@
 
 ![Alt text](circuitSchematic.png)
 
+This is a timed switch which relies on the RC circuit where the voltage is fed into
+the non-inverting input of an op amp.
+The inverting input is hooked up to a variable voltage divider to set the trigger threshold
+voltage, where a lower thershold voltage will lead to a faster triggering time
 
 ![Alt text](BreadboardCircuit.png)
 
 **Capacitor Voltage over time simulation**
 ![Alt text](VoltageOverTimePlot.png)
-
-
-
-This is a timed switch which relies on the RC circuit where the voltage is fed into
-the non-inverting input of an op amp.
-The inverting input is hooked up to a variable voltage divider to set the trigger threshold
-voltage, where a lower thershold voltage will lead to a faster triggering time
 
 
 **Calculating time until trigger**

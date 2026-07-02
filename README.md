@@ -28,6 +28,7 @@ voltage, where a lower thershold voltage will lead to a faster triggering time
 *the equation is rearranged to*
 
 ![Alt text](Equation1.jpeg)
+*after plugging in the value, t = 52.2ms*
 
 **Signal measurment**
 ![Alt text](SignalOverTime.JPG)

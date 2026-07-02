@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 """Voltage = Charge(coulomb)/Capacitance(Farads), Charge(coulomb) = Current(ampere) * time"""
 
 """The simulation approximates the time when a capacitor reaches the threshold voltage in the Simulation Time period.
-in some cases where the Simulation period is set to a small value, the simulation can not give a proper answer as the threshold triggering time may be longer than the simulation time period"""
+in some cases where the Simulation period is set to a small value, the simulation can not give an answer as the threshold triggering time may be longer than the simulation time period"""
 
 """if the threshold voltage is greater than supplied voltage the capacitor voltage will never surpass the threshold voltage"""
 

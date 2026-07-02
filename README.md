@@ -36,4 +36,4 @@ voltage, where a lower thershold voltage will lead to a faster triggering time
 
 *yellow plot is the Op amp Vout voltage over time*
 
-with the given circuit a 100uF capacitor and a 1K resistor gives an RC time constant of 100ms, with an activation voltage of 2.85V (Vtarget) the resulting time to trigger the switch takes 51.8ms
+with the given circuit and set threshold voltage the time untill trigger takes 51.8ms

@@ -22,11 +22,6 @@ voltage, where a lower thershold voltage will lead to a faster triggering time
 
 
 **Calculating time until trigger**
-
-![Alt text](Equation2.jpeg)
-
-*the equation is rearranged to*
-
 ![Alt text](Equation1.jpeg)
 *after plugging in the values, t = 52.2ms*
 
